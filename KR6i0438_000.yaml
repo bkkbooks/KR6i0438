@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0438/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說除恐災患經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0744.xml
+    old_id: T17n0744
+hash: sha256:df2213983cbff109e0174dfb0379e463f54f676c2343ca28ca34bfe3e884c09a

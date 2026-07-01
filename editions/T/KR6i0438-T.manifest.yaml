@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0438/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0438/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說除恐災患經
+  identifiers:
+    krp: KR6i0438
+    cbeta: T17n0744
+    cbeta_old_id: T17n0744
+    authorityid: CA0000506
+    json_key: T0744
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0744.xml
+    old_id: T17n0744
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0438_000-T.yaml, hash: 'sha256:df2213983cbff109e0174dfb0379e463f54f676c2343ca28ca34bfe3e884c09a'}
+  - {seq: 1, filename: KR6i0438_001-T.yaml, hash: 'sha256:c3e6a1a5267272332bf18a445ce58fa8aa8570c600f08a235e2bd78183f11085'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0438_000-T.markers.yaml, hash: 'sha256:c7d390da95cce934a16e0463858b60d63e969762b7d3a195ce08452d897bd15e'}
+  - {seq: 1, role: markers, filename: assets/KR6i0438_001-T.markers.yaml, hash: 'sha256:08f591a6ad01fa3fbd3b1b4565b8c612401ade8064230820e56082b9e3a2a579'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0438_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7674
+  label: 佛說除恐災患經
+  type: juan
+  level: 1
+hash: sha256:ed0f9c64d4026c441edb1c3d95fa778887f7ca6fc1c3ce92795b96ff5c64efd6
