@@ -40,9 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0438_000.yaml, hash: 'sha256:df2213983cbff109e0174dfb0379e463f54f676c2343ca28ca34bfe3e884c09a'}
-  - {seq: 1, filename: KR6i0438_001.yaml, hash: 'sha256:bfc15ed0df7f56277fbe9197979ec903354374a4d3a5242d8e083200140ba114'}
+  - {seq: 1, filename: KR6i0438_001.yaml, hash: 'sha256:c3e6a1a5267272332bf18a445ce58fa8aa8570c600f08a235e2bd78183f11085'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0438_001.markers.yaml, hash: 'sha256:1836f86e4531ff38054cdacde774b380809b96ae638774477706d44372c9b345'}
+  - {seq: 0, role: markers, filename: assets/KR6i0438_000.markers.yaml, hash: 'sha256:583235ec0b75a963d0c6a5b55da298665a45cfa9243eab831744bb4f84f2a8d6'}
+  - {seq: 1, role: markers, filename: assets/KR6i0438_001.markers.yaml, hash: 'sha256:0d4d6884e41611966037b929f101f706b022c1de72205ebd77d28ee0d900bdaf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -54,7 +55,4 @@ table_of_contents:
   label: 佛說除恐災患經
   type: juan
   level: 1
-hash: sha256:d8e676136abf9ce0236c268f77279c95150cb6f01cf6241832922d644de93841
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6a275869989bdfc2156b61cecefc35184a864208603d8cd11d64068b4ab6e158
